@@ -45,11 +45,11 @@ export const Skills = () => {
     <div className=" mt-40 bg-transparent border-y dark:bg-slate-800">
       <h1 className="text-center text-xl pt-14">Skills</h1>
       <h1 className="text-center text-3xl text-red-600 font-bold">
-        Technology{" "}
-        <span className="text-gray-500 dark:text-white">That I Use</span>
+        Tech{" & "}
+        <span className="text-gray-500 dark:text-white">Stack</span>
       </h1>
       <div className="flex justify-center">
-        <div className="w-3/4 my-10 flex flex-col justify-center h-52">
+        <div className="w-full my-8 flex flex-col justify-center h-48">
           <Slider {...settings}>
             <img src={html} alt="html" className="img-tech"/>
             <img src={css} alt="css" className="img-tech"/>

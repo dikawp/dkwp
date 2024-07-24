@@ -2,19 +2,20 @@ import "../App.css";
 import avatar from "../images/Remove-bg.ai_1704170446497.png";
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
+import CV_Ramadika_Wijaya from '../images/CV_Ramadika_Wijaya.pdf';
 
 export const Main = () => {
   useGSAP(() => {
     gsap.from('.hello', {
       fontSize: '42px',
-      delay: 2,
+      delay: 1.5,
     });
 
     gsap.from('.main', {
       y: 10,
       opacity: 0,
       stagger: 0.2,
-      delay: 2,
+      delay: 1.5,
     });
   });
 
@@ -29,7 +30,7 @@ export const Main = () => {
       </h1>
       <ul className="main flex justify-center text-4xl gap-12 text-gray-500 dark:text-gray-400 mb-12">
         <li className="hover:text-red-600 dark:hover:text-white transition duration-500 ease-in-out">
-          <a href="https://www.linkedin.com/in/ramadika-wijaya-9b9b74221/">
+          <a href="https://www.linkedin.com/in/ramadika-wijaya-poetra-s-9b9b74221/">
             <svg
               stroke="currentColor"
               fill="currentColor"
@@ -76,7 +77,7 @@ export const Main = () => {
       <div className="main text-center my-10">
         <a
           className="m-3 py-3 px-6 border-2 border-red-800 lg:m-5 text-lg font-semibold rounded-md"
-          href="../images/CV_Ramadika_Wijaya.pdf"
+          href={CV_Ramadika_Wijaya}
           download={"CV_Ramadika_Wijaya.pdf"}
         >
           Download CV

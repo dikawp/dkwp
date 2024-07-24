@@ -33,7 +33,7 @@ export const Porto = () => {
 
   return (
     <div className="mt-40 h-100">
-      <h1 className="text-center text-xl pt-14">Portofolios</h1>
+      <h1 className="text-center text-xl pt-14">Portfolios</h1>
       <h1 className="text-center text-3xl text-red-600 font-bold">
         My Projects
       </h1>
