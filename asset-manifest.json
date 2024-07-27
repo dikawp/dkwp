@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dkwp/static/css/main.437af953.css",
-    "main.js": "/dkwp/static/js/main.9f953639.js",
+    "main.js": "/dkwp/static/js/main.ae5e08df.js",
     "static/js/787.b9ffb8b8.chunk.js": "/dkwp/static/js/787.b9ffb8b8.chunk.js",
     "static/media/IMG_7490 1.jpg": "/dkwp/static/media/IMG_7490 1.a672eeef083000425ce0.jpg",
     "static/media/sitodo.webp": "/dkwp/static/media/sitodo.7e1d2699f216bc5adcac.webp",
@@ -10,7 +10,7 @@
     "static/media/gnshop.webp": "/dkwp/static/media/gnshop.d8e8308be3a2e5cfc725.webp",
     "static/media/fishy.webp": "/dkwp/static/media/fishy.89ac0942c9fae9e739b8.webp",
     "static/media/Remove-bg.ai_1704170446497.png": "/dkwp/static/media/Remove-bg.ai_1704170446497.5fd1f7cfd5d41569d962.png",
-    "static/media/CV_Ramadika_Wijaya.pdf": "/dkwp/static/media/CV_Ramadika_Wijaya.57a991361dd326f17ec0.pdf",
+    "static/media/CV_Ramadika_Wijaya.pdf": "/dkwp/static/media/CV_Ramadika_Wijaya.8ca82d78751f49f25cc2.pdf",
     "static/media/react-svgrepo-com.svg": "/dkwp/static/media/react-svgrepo-com.598d90dd4f36234e376cbc6ccd571550.svg",
     "static/media/laravel-svgrepo-com.svg": "/dkwp/static/media/laravel-svgrepo-com.6f8afa8068ec283083af194c57f425bc.svg",
     "static/media/mysql-logo-svgrepo-com.svg": "/dkwp/static/media/mysql-logo-svgrepo-com.5dbd7ffb56a921cecde426cca82f0df4.svg",
@@ -18,10 +18,12 @@
     "static/media/node-js-svgrepo-com.svg": "/dkwp/static/media/node-js-svgrepo-com.a7f2ccf30eed3e5878a2ba1e6be108a2.svg",
     "static/media/css-3-svgrepo-com.svg": "/dkwp/static/media/css-3-svgrepo-com.f1823d8606e24164d5ac03b4e9b80d85.svg",
     "static/media/bootstrap-svgrepo-com.svg": "/dkwp/static/media/bootstrap-svgrepo-com.93fe84041cc1b588f15c332248529333.svg",
+    "static/media/dot-net-core-7.svg": "/dkwp/static/media/dot-net-core-7.97f78a4850d6a3bc4e99f4603d84643d.svg",
     "static/media/slick.svg": "/dkwp/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/dkwp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/python-svgrepo-com.svg": "/dkwp/static/media/python-svgrepo-com.4298525c028749eb4fa154f8f5bd1931.svg",
     "static/media/slick.ttf": "/dkwp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/c--4.svg": "/dkwp/static/media/c--4.04d9d2bb18b9781567f7340691dcc686.svg",
     "static/media/slick.woff": "/dkwp/static/media/slick.295183786cd8a1389865.woff",
     "static/media/html-5-logo-svgrepo-com.svg": "/dkwp/static/media/html-5-logo-svgrepo-com.e248da514edac2a2a66bde8fa0166701.svg",
     "static/media/php3-svgrepo-com.svg": "/dkwp/static/media/php3-svgrepo-com.384947cf04f48396685785414f33bfc1.svg",
@@ -29,11 +31,11 @@
     "static/media/javascript-svgrepo-com.svg": "/dkwp/static/media/javascript-svgrepo-com.7bb08cdbe94fc2dfc1b51be8c2dae551.svg",
     "static/media/tailwind-svgrepo-com.svg": "/dkwp/static/media/tailwind-svgrepo-com.973c73e85d4daa24b257ba20298716c4.svg",
     "main.437af953.css.map": "/dkwp/static/css/main.437af953.css.map",
-    "main.9f953639.js.map": "/dkwp/static/js/main.9f953639.js.map",
+    "main.ae5e08df.js.map": "/dkwp/static/js/main.ae5e08df.js.map",
     "787.b9ffb8b8.chunk.js.map": "/dkwp/static/js/787.b9ffb8b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.437af953.css",
-    "static/js/main.9f953639.js"
+    "static/js/main.ae5e08df.js"
   ]
 }
