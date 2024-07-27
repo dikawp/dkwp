@@ -2,7 +2,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import '../App.css';
-import {bootstrap, css, firebase, html, js, laravel, node, php, py, tw, react, sql} from '../images/tech/index'
+import {bootstrap, css, firebase, html, js, laravel, node, php, py, tw, react, sql, cs, net} from '../images/tech/index'
 
 export const Skills = () => {
   const settings = {
@@ -56,6 +56,7 @@ export const Skills = () => {
             <img src={js} alt="js" className="img-tech"/>
             <img src={php} alt="php" className="img-tech"/>
             <img src={py} alt="py" className="img-tech"/>
+            <img src={cs} alt="cs" className="img-tech"/>
             <img src={bootstrap} alt="bs" className="img-tech"/>
             <img src={tw} alt="tw" className="img-tech"/>
             <img src={react} alt="react" className="img-tech"/>
@@ -63,6 +64,7 @@ export const Skills = () => {
             <img src={node} alt="node" className="img-tech"/>
             <img src={sql} alt="sql" className="img-tech"/>
             <img src={firebase} alt="fb" className="img-tech"/>
+            <img src={net} alt="fb" className="img-tech"/>
           </Slider>
         </div>
       </div>

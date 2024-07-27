@@ -4,6 +4,7 @@ import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import { useRef } from "react";
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
+import CV_Ramadika_Wijaya from '../images/CV_Ramadika_Wijaya.pdf';
 
 export const Introduc = () => {
 
@@ -65,7 +66,7 @@ export const Introduc = () => {
           </h1>
           <a
             className="w-1/2 py-1 px-3 mt-5 text-center bg-red-800 text-lg font-semibold rounded-md text-white"
-            href="../images/CV_Ramadika_Wijaya.pdf"
+            href={CV_Ramadika_Wijaya}
             download={"CV_Ramadika_Wijaya.pdf"}
           >
             Download CV

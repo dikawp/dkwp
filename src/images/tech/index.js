@@ -10,5 +10,7 @@ import py from './python-svgrepo-com.svg'
 import tw from './tailwind-svgrepo-com.svg'
 import react from './react-svgrepo-com.svg'
 import sql from './mysql-logo-svgrepo-com.svg'
+import cs from './c--4.svg'
+import net from './dot-net-core-7.svg'
 
-export {bootstrap, css, firebase, html, js, laravel, node, php, py, tw, react, sql}
+export {bootstrap, css, firebase, html, js, laravel, node, php, py, tw, react, sql, cs, net}

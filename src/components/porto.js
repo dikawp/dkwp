@@ -141,6 +141,32 @@ export const Porto = () => {
             </figcaption>
           </figure>
 
+          <figure className="xl:flex justify-center mt-16">
+            <img
+              src={inshanity}
+              alt="Profile"
+              className="imgs rounded-lg lg:w-5/6 xl:w-1/2 drop-shadow-xl"
+              style={{ display: "inline-block" }}
+            />
+            <figcaption className=" capt lg:mx-14 xl:ms-6 text-start my-2">
+              <h1 className="text-xl lg:text-3xl font-bold">
+                inshanityGoods. <br /> B2C Furniture, Mobile Apps
+              </h1>
+              <p className="text-lg font-normal my-5">
+                InshanityGoods is a B2C mobile application that sells furniture
+                and has been integrated with Midtrans as its payment gateway
+              </p>
+              <div>
+                <ul>
+                  <li className="tech-item border-2 border-red-500 py-1 px-3 mr-3">
+                    REACT NATIVE
+                  </li>
+                  <li className="tech-item border-2 border-red-500 py-1 px-3 mr-3">FIREBASE</li>
+                </ul>
+              </div>
+            </figcaption>
+          </figure>
+
           <div className="flex justify-between p-4 lg:p-8 mt-12 rounded-lg bg-white text-gray-500 dark:bg-slate-800 dark:text-white drop-shadow-xl">
             <div className="flex flex-col justify-center">
               <h1 className="text-md lg:text-xl font-bold ">More in Github</h1>
